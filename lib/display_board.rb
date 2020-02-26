@@ -14,4 +14,4 @@ board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 puts board[0]
 
 x = "BITCH WTF"
-display_board(my_variable)
+display_board(x)
