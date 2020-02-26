@@ -11,5 +11,5 @@ puts "Welcome to Tic Tac Toe"
 
 display_board
 
-board = ["X", " ", " ", " ", " ", " ", " ", " ", " "]
+board = ["booX", " ", " ", " ", " ", " ", " ", " ", " "]
 puts board[0]
