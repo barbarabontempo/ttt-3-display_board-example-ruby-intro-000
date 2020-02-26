@@ -10,7 +10,7 @@ def display_board(the_ttt)
 end
 puts "Welcome to Tic Tac Toe"
 
-display_board
+#display_board
 
 # board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 # puts board[0]
