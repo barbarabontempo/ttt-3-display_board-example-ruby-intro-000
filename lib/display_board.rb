@@ -9,6 +9,6 @@ def display_board(the_board)
 end
 puts "Welcome to Tic Tac Toe"
 
-board = ["O", " ", " ", " ", " ", " ", " ", " ", " "]
+board = ["O", " ", " ", " ", "X", " ", " ", " ", " "]
 
 display_board(board)
